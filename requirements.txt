@@ -1,0 +1,11 @@
+numpy
+pandas
+plotly
+seaborn
+matplotlib
+pyLDAvis
+datasets
+gensim
+spacy
+spacy-lookups-data
+statsmodels
